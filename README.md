@@ -1,2 +1,2 @@
 # college
-The college aggregator project
+The college aggregator project.
